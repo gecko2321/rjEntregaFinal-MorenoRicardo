@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1.5px solid black;
+}
+
+li{
+    display: inline-flex;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.imgLogo{
+    display: inline-flex;
+    width: 60px;
+}
