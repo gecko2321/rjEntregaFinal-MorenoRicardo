@@ -8,7 +8,7 @@ const NavBar = () => {
       <img className="imgLogo" src="../public/img/logo.webp" alt="" />
 
       <Link to="/">
-        <h1>Ceramica Gloria</h1>
+        <h1 className="tituloHeader">Ceramica Gloria</h1>
       </Link>
 
       <nav>

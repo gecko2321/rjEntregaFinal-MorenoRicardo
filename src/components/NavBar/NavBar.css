@@ -15,3 +15,12 @@ li{
     display: inline-flex;
     width: 60px;
 }
+
+.tituloHeader {
+    font-family: "Roboto";
+    font-size: xx-large;
+    color: #f15a29;
+    text-align: center;
+    text-decoration: solid;
+    padding: 1rem;
+  }
